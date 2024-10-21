@@ -40,6 +40,25 @@ Developed an interactive business dashboard to visualize key insights, including
 - Adding Interactivity with Bookmarks: Implemented bookmarks to enable seamless navigation between different views and analyses.
 
 
+**Screenshots**
+
+**1. Power BI Dashboard - Home Page**
+![Home Page](https://github.com/annthomas2706/job-market-data-analysis-power-bi/blob/main/Home.png?raw=true)
+*This is the home page of the dashboard, providing an overview of the analysis and easy navigation to different sections.
+
+**2. Jobs Page**
+![Jobs Page](https://github.com/annthomas2706/job-market-data-analysis-power-bi/blob/main/Jobs.png?raw=true)
+*This screenshot displays the Jobs page, showcasing key visualizations related to job postings, including trends and skill requirements.
+
+**3. Skills Page**
+![Skills Page](https://github.com/annthomas2706/job-market-data-analysis-power-bi/blob/main/Skills.png?raw=true)
+*Here, the Skills page highlights the most in-demand skills and trends over time, enabling users to identify the skills that are critical in the job market.
+
+**4. Company Page**
+![Company Page](https://github.com/annthomas2706/job-market-data-analysis-power-bi/blob/main/Company.png?raw=true)
+*This screenshot presents the Company page, summarizing important details about companies posting jobs, such as industry, size, and location.
+
+
 **Tools and Technologies Used**
 - **Power BI**: For data visualization and dashboard creation.
 - **Power Query**: For data cleaning and preprocessing.
